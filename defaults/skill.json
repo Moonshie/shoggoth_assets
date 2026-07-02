@@ -64,6 +64,9 @@
         "width": 110,
         "height": 110
     },
+    "class_symbol_3_region": { "x": 988, "y": 80, "width": 208, "height": 208 },
+    "class_symbol_2_region": { "x": 1168, "y": 80, "width": 208, "height": 208 },
+    "class_symbol_1_region": { "x": 1348, "y": 80, "width": 208, "height": 208 },
 
     "text_region": {"x": 252, "y": 1522, "width": 1208, "height": 480, "attach_after": "flavor_text" },
     "text_region_weakness": {"x": 252, "y": 1586, "width": 1208, "height": 480, "attach_after": "flavor_text" },
